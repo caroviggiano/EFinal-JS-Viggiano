@@ -4,7 +4,7 @@ body {
     padding: 0; 
   }
   
-  h1 {
+  h2 {
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -14,7 +14,7 @@ body {
     padding: 20px 0;
   }
   
-  h2 {
+  h1 {
     background-color: rgb(255, 207, 110);
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ body {
     margin: 0; 
     color: #fff; 
   }
-  
+
   .containerimg {
     display: flex;
     justify-content: center;
